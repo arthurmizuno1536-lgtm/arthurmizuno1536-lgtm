@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o [Arthur Mizuno Tallarico]! 👋
 
-<!--
-**arthurmizuno1536-lgtm/arthurmizuno1536-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧔 Sobre Mim
+- 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)/ UNIFRAN**.
+- 🎯 Meu objetivo atual é aprender mais sobre **Git, GitHub, Linguagens de programação, Banco de dados, e desenvolvimento de software**.
+- ⚡ Curiosidade: [Adicione algo divertido, ex: Sou movido a café / Gosto de jogos independentes].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Cursos & Certificações
+Aqui estão os principais cursos que concluí ou estou realizando para evoluir na tecnologia:
+
+* **MATE ACADEMY** - ANALISTA DE DADOS (Status: Em andamento)
+* **Git e GitHub do Zero** - UNIFRAN (Status: Em andamento)
+
+---
+
+### 🛠️ Minhas Tecnologias & Ferramentas
+* **Controle de Versão:** Git & GitHub
+* **Linguagens/Tecnologias:** HTML5, CSS3, JavaScript 
+* **Ferramentas:** VS Code
+
+---
+
+### 🤝 Conecte-se Comigo
+
+* 💼 [Meu LinkedIn]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/arthur-mizuno-233b87287?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+* 📧 [Meu E-mail](Arthurmizuno1536@gmail.com)
