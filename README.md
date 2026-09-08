@@ -1,9 +1,8 @@
-# Olá, eu sou o [Arthur Mizuno Tallarico]! 👋
+# Olá, eu sou o Arthur Mizuno Tallarico! 👋
 
 ### 🧔 Sobre Mim
 - 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)/ UNIFRAN**.
-- 🎯 Meu objetivo atual é aprender mais sobre **Git, GitHub, Linguagens de programação, Banco de dados, e desenvolvimento de software**.
-- ⚡ Curiosidade: [Adicione algo divertido, ex: Sou movido a café / Gosto de jogos independentes].
+- 🎯 Meu objetivo atual é aprender mais sobre **Git, GitHub, Linguagens de programação, Banco de dados, e Desenvolvimento de Software**.
 
 ---
 
@@ -11,7 +10,6 @@
 Aqui estão os principais cursos que concluí ou estou realizando para evoluir na tecnologia:
 
 * **MATE ACADEMY** - ANALISTA DE DADOS (Status: Em andamento)
-* **Git e GitHub do Zero** - UNIFRAN (Status: Em andamento)
 
 ---
 
