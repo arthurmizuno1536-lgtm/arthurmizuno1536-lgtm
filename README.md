@@ -22,5 +22,5 @@ Aqui estão os principais cursos que concluí ou estou realizando para evoluir n
 
 ### 🤝 Conecte-se Comigo
 
-* 💼 [LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/arthur-mizuno-233b87287?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-* 📧 [arthurmizuno1536@gmail.com]
+* 💼 [LINKEDIN][(https://www.linkedin.com/in/arthur-mizuno-233b87287?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]
+* 📧 [EMAIL][arthurmizuno1536@gmail.com]
